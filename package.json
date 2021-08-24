@@ -1,0 +1,17 @@
+{
+  "name": "@arequejo/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:arequejo/prettier-config.git"
+  },
+  "keywords": [
+    "arequejo",
+    "prettier",
+    "config"
+  ],
+  "author": "Alejandro Requejo",
+  "license": "MIT"
+}
